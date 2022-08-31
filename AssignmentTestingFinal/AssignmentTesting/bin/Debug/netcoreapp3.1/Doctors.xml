@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<doctors>
+  <employeeId>1234567<name>asfcsdfdsd</name><surname>sdfsdfdsf</surname><mobile>12345678</mobile><ward>C</ward><fulltime>true</fulltime><hours>170</hours><hourly_rate>20</hourly_rate><bonus_surgeryrate>300</bonus_surgeryrate><number_of_surgeries>3</number_of_surgeries></employeeId>
+  <doctors>
+    <employeeId>1236666<name>ghjhgj</name><surname>ghjghjghj</surname><mobile>12345678</mobile><ward>B</ward><fulltime>true</fulltime><hours>150</hours><hourly_rate>20</hourly_rate><bonus_surgeryrate>300</bonus_surgeryrate><number_of_surgeries>4</number_of_surgeries></employeeId>
+  </doctors>
+  <doctors>
+    <employeeId>1212121<name>jklhgjkjhk</name><surname>htjgfjhfgh</surname><mobile>12121212</mobile><ward>C</ward><fulltime>true</fulltime><hours>180</hours><hourly_rate>100</hourly_rate><bonus_surgeryrate>300</bonus_surgeryrate><number_of_surgeries>12</number_of_surgeries></employeeId>
+  </doctors>
+  <doctors>
+    <employeeId>1987565<name>asdfg</name><surname>asdfg</surname><mobile>14741447</mobile><ward>C</ward><fulltime>true</fulltime><hours>180</hours><hourly_rate>15</hourly_rate><bonus_surgeryrate>300</bonus_surgeryrate><number_of_surgeries>3</number_of_surgeries></employeeId>
+  </doctors>
+</doctors>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<students>
+  <students>
+    <employeeId>6666666<name>loyjkhg</name><surname>hjyjkjhyk</surname><mobile>66666666</mobile><ward>D</ward><fulltime>true</fulltime><hours>164</hours><hourly_rate>5</hourly_rate><school>St Aloysius College</school></employeeId>
+  </students>
+  <students />
+  <students />
+  <students />
+  <students />
+  <students />
+  <students>
+    <employeeId>1584125<name>lkoloijlkl</name><surname>loloujkuk</surname><mobile>15252525</mobile><ward>A</ward><fulltime>true</fulltime><hours>25</hours><hourly_rate>5</hourly_rate><school>Higher Secondary College</school></employeeId>
+  </students>
+  <students>
+    <employeeId>1584125<name>lkoloijlkl</name><surname>loloujkuk</surname><mobile>15252525</mobile><ward>A</ward><fulltime>true</fulltime><hours>25</hours><hourly_rate>5</hourly_rate><school>Higher Secondary College</school></employeeId>
+    <employeeId>9655424<name>asdasgsfdg</name><surname>hjghjgffgh</surname><mobile>17456352</mobile><ward>D</ward><fulltime>true</fulltime><hours>175</hours><hourly_rate>5</hourly_rate><school>De La Salle College</school></employeeId>
+  </students>
+</students>

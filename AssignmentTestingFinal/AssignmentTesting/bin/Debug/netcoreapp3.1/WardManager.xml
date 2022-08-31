@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<managers>
+  <employeeId>4444444<name>asdasdasdas</name><surname>asdasdasdas</surname><mobile>44444444</mobile><ward>B</ward><salary>35500</salary></employeeId>
+  <managers />
+  <managers>
+    <employeeId>1698523<name>qwertyt</name><surname>qwerrtt</surname><mobile>12345698</mobile><ward>B</ward><salary>2500</salary></employeeId>
+  </managers>
+</managers>
